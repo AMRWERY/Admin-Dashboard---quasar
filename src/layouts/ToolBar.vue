@@ -60,7 +60,7 @@
         <q-btn flat>
           <q-menu fit>
             <h6 class="text-center q-ma-xs">Amr Mohamed</h6>
-            <p class="text-center q-ma-xs text-deep-purple-9">Flatlogic.com</p>
+            <p class="text-center q-ma-xs text-deep-purple-9">Platonic.com</p>
             <q-list style="min-width: 100px">
               <q-item clickable v-close-popup>
                 <q-item-section>Profile</q-item-section>
